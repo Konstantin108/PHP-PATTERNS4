@@ -1,5 +1,5 @@
 <?php
-
+namespace app\Factory\DBServer;
 
 abstract class DBServer
 {

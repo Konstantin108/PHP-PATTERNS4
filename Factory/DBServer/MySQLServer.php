@@ -1,5 +1,5 @@
 <?php
-
+namespace app\Factory\DBServer;
 
 class MySQLServer extends DBServer
 {

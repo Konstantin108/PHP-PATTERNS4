@@ -1,5 +1,5 @@
 <?php
-
+namespace app\Factory\DBServer;
 
 class PostgreServer extends DBServer
 {

@@ -1,5 +1,5 @@
 <?php
-
+namespace app\Factory\DBQueryBuilder;
 
 class MySQLQueryBuilder extends DBQueryBuilder
 {

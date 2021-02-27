@@ -1,5 +1,5 @@
 <?php
-
+namespace app\Factory\DBRecord;
 
 class MySQLRecord extends DBRecord
 {

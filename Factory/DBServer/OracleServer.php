@@ -1,5 +1,5 @@
 <?php
-
+namespace app\Factory\DBServer;
 
 class OracleServer extends DBServer
 {

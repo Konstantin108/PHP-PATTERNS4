@@ -1,5 +1,5 @@
 <?php
-
+namespace app\Factory\DBQueryBuilder;
 
 class OracleQueryBuilder extends DBQueryBuilder
 {

@@ -1,6 +1,9 @@
 <?php
+namespace app\Factory\DBConnection;
 
-
+use app\Factory\DBServer\DBServer;
+use app\Factory\DBRecord\DBRecord;
+use app\Factory\DBQueryBuilder\DBQueryBuilder;
 abstract class DBConnection
 {
     private $DBServer;

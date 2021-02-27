@@ -1,5 +1,5 @@
 <?php
-
+namespace app\Factory\DBRecord;
 
 class OracleRecord extends DBRecord
 {
